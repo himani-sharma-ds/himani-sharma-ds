@@ -1,6 +1,6 @@
 # Hi 👋, I'm Himani Sharma
 
-🎓 Data Science Learner from Delhi  
+🎓 Aspiring Data Analyst skilled in Python, SQL, and data preprocessing techniques  
 💻 Learning Python, SQL, Machine Learning  
 📍 Based in Delhi, India  
 📫 Reach me at: himani.8230@gmail.com  
@@ -8,16 +8,10 @@
 ---
 
 ## 🚀 Skills
-- Python
-- SQL
-- Excel
-- Machine Learning
-- Data Analysis
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+**Programming:** Python  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+**Machine Learning:** Scikit-learn, KNN  
+**Data Skills:** Data Cleaning, Preprocessing, Visualization
 
 ---
 
