@@ -21,7 +21,7 @@
 Cleaned a loan payment dataset by handling missing values, removing columns and rows with null values, and creating a cleaned dataset for analysis.
 
 🔗 Project Link:
-https://github.com/himani-sharma-ds/loan-data-cleaning-project
+[https://github.com/himani-sharma-ds/loan-data-cleaning-project](https://github.com/himani-sharma-ds/Data-Cleaning-Project.git)
 
 ---
 
