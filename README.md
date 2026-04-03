@@ -1,6 +1,6 @@
 # Hi 👋, I'm Himani Sharma
 
-🎓 Aspiring Data Analyst skilled in Python, SQL, and data preprocessing techniques  
+🎓 Aspiring Data Scientist skilled in Python, SQL, and data preprocessing techniques  
 💻 Learning Python, SQL, Machine Learning  
 📍 Based in Delhi, India  
 📫 Reach me at: himani.8230@gmail.com  
