@@ -15,30 +15,26 @@
 
 ---
 
-## 🧹 Data Preprocessing & ML Techniques
-- Data Cleaning
-- Handling Missing Values
-- Fill Null Values (Mean, Mode)
-- Outlier Detection using IQR
-- One Hot Encoding
-- Label Encoding
-- Ordinal Encoding
-- KNN Algorithm
+## 📂 Projects
+
+### 🔹 Data Cleaning Project
+Cleaned a loan payment dataset by handling missing values, removing columns and rows with null values, and creating a cleaned dataset for analysis.
+
+🔗 Project Link:
+https://github.com/himani-sharma-ds/loan-data-cleaning-project
 
 ---
 
-## 🛠 Tools
-- Jupyter Notebook
-- Excel
-- Power BI (Learning)
+## 🛠 Tools & Technologies
+Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook | GitHub
 
+---
 ---
 
 ## 📚 Currently Learning
 - Machine Learning
 - Statistics
 - Deep Learning
-- Power BI
 - Data Visualization
 
 ---
