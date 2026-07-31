@@ -23,6 +23,11 @@ Cleaned a loan payment dataset by handling missing values, removing columns and 
 🔗 Project Link:
 [https://github.com/himani-sharma-ds/loan-data-cleaning-project](https://github.com/himani-sharma-ds/Data-Cleaning-Project.git)
 
+### 🔹 Feature Engineering for Machine Learning
+Implemented Missing Value Imputation, Label Encoding, One-Hot Encoding, and Ordinal Encoding using Python and Scikit-learn.
+
+🔗 Project Link:
+[https://github.com/himani-sharma-ds/Feature-Engineering-for-Machine-Learning.git]
 ---
 
 ## 🛠 Tools & Technologies
